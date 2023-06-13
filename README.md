@@ -13,3 +13,14 @@ Y, una vez instalado todos los paquetes, se debe activar el mismo:
 ```
 conda activate py37
 ```
+
+
+Luego, para correr el programa es necesario descargar el modelo entrenado, por problemas de espacio se debe descargar aparte:
+
+![https://drive.google.com/file/d/1XkWkcpE5qwZ8xeelPUz7zOZfZhrK3HR-/view?usp=sharing](https://drive.google.com/file/d/1XkWkcpE5qwZ8xeelPUz7zOZfZhrK3HR-/view?usp=sharing)
+
+Y ser puesto dentro de la carpeta /modelo/. Si todo está bien, entonces se puede iniciar la aplicacion con el archivo "app_astroinf.py":
+
+```
+python app_astroinf.py
+```
